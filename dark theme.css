@@ -1,0 +1,38 @@
+ytd-page-manager.style-scope.ytd-app {
+  background-color: #000000;
+}
+
+iron-selector.style-scope.ytd-feed-filter-chip-bar-renderer {
+  background-color: #000000;
+}
+
+div.redux-home-container.style-scope.ytd-rich-grid-renderer {
+  background-color: #000000;
+}
+html[dark] #contents.ytd-rich-grid-renderer, html[dark] #contents.ytd-section-list-renderer, #paid-comment-background, #primary-inner ytd-watch-metadata,
+#contents.ytd-rich-grid-renderer {
+background: #00000000 !important;
+background-color: #000000 !important;
+}
+
+div.style-scope.ytd-watch-flexy {
+  background-color: #00000000;
+  
+}
+
+div.style-scope.ytd-watch-metadata {
+  background-color: #00000000;
+}
+
+ytd-comments.style-scope.ytd-watch-flexy {
+  background-color: #00000000;
+}
+
+button.yt-spec-button-shape-next--icon-leading,
+button.yt-spec-button-shape-next--icon-button{
+  background-color: #00000000;
+}
+
+#contents.ytd-rich-grid-renderer {
+  background-color: #000000;
+}
