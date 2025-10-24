@@ -49,7 +49,9 @@ Root of the repo contains all the .css files needed to change the look:
 
 ## Issues and contributions
 
-There are notable issues with the CSS- check the issues tab for more, or report your own issues there. Please report issues only if there is a visually incorrect problem, such as cut off text or missing icons.
+There are notable issues with the CSS- check the issues tab for info, or report your own issues there. Please report issues only if there is a visually incorrect problem, such as cut off text or missing icons.
+
+Please feel free to submit pull requests, as I cannot guarantee I'll keep updating this. If it's functional, I'm more likely going to keep things as-is even if something isn't visually correct. I have my own work to worry about so fixing Youtube isn't a fulltime job for myself.
 
 You are welcome to fork this repository to make your own changes, and submit a pull request, if you think your own changes contribute to the overall goals specified here. If your changes do not align with my preferences I will reject it, but you can still share your own changes as you choose. Please note the Apache 2.0 license applied to this repo.
 
