@@ -41,7 +41,7 @@ Root of the repo contains all the .css files needed to change the look:
 
 * Using Youtube Redux, fix the homescreen, comments, and other elements of the website as a whole, to remove bloated advertisement services such as Shorts and minigames, so that my experience can emphasize recommending videos, utilizing the space available on my display to best show recommendations
 
-## How to apply
+## How to apply the layout
 
 **Prerequisite (recommended)**: I use the extension known as Youtube Redux, by omniZero. This plugin does a lot to improve the layout, in particular of the main page, and re-adding the dislike counter, but it has its own limitations and didn't provide all the settings I wanted. I highly recommend setting up this plugin first, as the screenshots use this plugin.
 
