@@ -1,0 +1,4 @@
+*, *::before, *::after{
+  /*all page injection*/
+  border-radius: 0px !important;
+}

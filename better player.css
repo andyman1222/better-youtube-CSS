@@ -1,0 +1,137 @@
+.ytp-progress-bar-container {
+  top: 0;
+  position: relative;
+  bottom: initial !important;
+}
+
+.ytp-chrome-bottom {
+  height: 50px;
+  bottom: 0;
+  top: auto;
+}
+
+.ytp-chrome-controls {
+  height: initial;
+  bottom: 0;
+}
+
+.ytp-button svg {
+  padding: 0;
+  height: 100%;
+  width: 100%;
+  aspect-ratio: 1 / 1;
+}
+
+.ytp-button {
+  padding: 5px;
+  margin: 5px;
+  width: auto;
+  height: 100%;
+  aspect-ratio: 1/1;
+  line-height: initial;
+}
+
+.ytp-chapter-container {
+  margin: 5px;
+  width: auto;
+  height: 100%;
+  line-height: initial;
+  padding: 0;
+}
+
+.ytp-chapter-title {
+  aspect-ratio: initial;
+}
+
+.ytp-play-button {
+  aspect-ratio: 1 / 1;
+  
+}
+
+.ytp-volume-area {
+  margin: 5px;
+  height: auto;
+}
+
+.ytp-volume-area .ytp-volume-icon, .ytp-mute-button {
+  height: auto !important;
+  aspect-ratio: 1 / 1;
+}
+
+.ytp-volume-slider {
+  min-height: initial !important;
+}
+
+.ytp-mute-button, .ytp-autonav-toggle {
+  height: auto;
+}
+
+.ytp-time-display {
+  padding: 0;
+  margin: 5px;
+  line-height: initial;
+  text-align: center;
+}
+
+.ytp-time-contents {
+  height: auto;
+  vertical-align: middle;
+  margin: auto;
+  display: flex;
+}
+
+.ytp-time-wrapper-delhi {
+  height: 100% !important;
+  vertical-align: middle;
+  display: flex;
+  margin: auto
+}
+
+.ytp-right-controls {
+  margin: 0;
+  display: flex;
+  height: 100%;
+}
+
+.ytp-left-controls, .ytp-right-controls {
+  padding: 5px;
+  height: 100%;
+}
+
+.ytp-right-controls-left, .ytp-right-controls-right {
+  height: auto;
+  display: flex;
+}
+
+.ytp-autonav-toggle {
+  display: flex;
+}
+
+.ytp-autonav-toggle-button {
+  display: flex;
+  top: 50%;
+  margin: 0;
+}
+
+.ytp-autonav-toggle-button-container {
+  height: 100%;
+  display: flex;
+}
+
+.ytp-large-play-button {
+  margin: auto;
+  position: 0;
+  height: 20%;
+}
+
+.ytp-fullscreen-grid {
+  top: 0;
+}
+
+.ytp-fullscreen-grid-stills-container {
+  grid-template-columns: repeat(6,2fr);
+}
+
+.ytp-modern-videowall-still {
+  display: flex;
+}
