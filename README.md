@@ -7,7 +7,7 @@ Luckily, this is all CSS changes, and there are tools in web browsers to overrid
 
 **Why does Google change their website CSS every 6 months?** I have no clue.
 
-**Why make this repo?** Because I am sick and tired of Google changing their UI every 6 months. It serves no practical purpose and retracts from the user experience of their platform. Youtube isn't the only platform suspectible to this- for instance, the google docs suite bypasses some of the CSS changes I've made across all sites, so I'm stuck with rounded corners on the site.
+**Why make this repo?** Because I am sick and tired of Google changing their UI every 6 months (figuratively, but it is obsessive). It serves no practical purpose and retracts from the user experience of their platform. Youtube isn't the only platform suspectible to this- for instance, the google docs suite bypasses some of the CSS changes I've made across all sites, so I'm stuck with rounded corners on the site.
 
 **Why these changes?** Because Google's CSS adds a ton of wasted space, whether in the form of the rounded corners, or whitespace, or larger fonts. I have large monitors with my desktop, not a little phone screen, so I want the screen real estate to be utilized more than what Google (and most modern websites) tend to waste.
 
