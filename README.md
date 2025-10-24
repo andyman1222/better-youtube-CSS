@@ -25,11 +25,11 @@ before/after folders show screenshots of before and after applying the changes, 
 
 Root of the repo contains all the .css files needed to change the look:
 
-* universal.css: this is my own personal preference, of removing rounded corners across all websites. You can apply the css to youtube specifically, or to all websites like I do, or ignore it, it's your choice
+* **universal.css**: this is my own personal preference, of removing rounded corners across all websites. You can apply the css to youtube specifically, or to all websites like I do, or ignore it, it's your choice
 
-* dark theme.css: contains color changes to make a true black (often called OLED) theme across the platform
+* **dark theme.css**: contains color changes to make a true black (often called OLED) theme across the platform
 
-* better player.css: contains the adjustments made to the video player
+* **better player.css**: contains the adjustments made to the video player
 
 ## Goals of these changes
 
@@ -43,7 +43,7 @@ Root of the repo contains all the .css files needed to change the look:
 
 ## How to apply the layout
 
-**Prerequisite (recommended)**: I use the extension known as Youtube Redux, by omniZero. This plugin does a lot to improve the layout, in particular of the main page, and re-adding the dislike counter, but it has its own limitations and didn't provide all the settings I wanted. I highly recommend setting up this plugin first, as the screenshots use this plugin.
+**Prerequisite (recommended)**: I use the extension known as *Youtube Redux*, by omniZero. This plugin does a lot to improve the layout, in particular of the main page, and re-adding the dislike counter, but it has its own limitations and didn't provide all the settings I wanted. I highly recommend setting up this plugin first, as the screenshots use this plugin.
 
 **Applying the CSS**: use the *Stylebot* extension, or a similar extension which may let you apply CSS to any webpage. Whatever extension you choose, simply add a rule for *\*.youtube.com*, copy and paste any of the CSS styling, and click save. With Stylebot, changes apply as soon as I clicked save.
 
