@@ -59,4 +59,6 @@ Looking to thank me with a donation? I have a game dev company, Quantonium looki
 
 Looking to discuss CSS, youtube, The Laser Games, or this repository? Join the [QuantoniumDiscord](discord.quantonium.net)!
 
-Note: this repository is owned by myself, Andy Herbert, and not the company; I am not creating this repository for-profit, or as a component of my company. Discussion about this on the discord server is encouraged for general discussion, however the server promoted is a function of the company and is subject to the policies of the company towards the server.
+Note: this repository is owned by myself, Andy Herbert, and not the company; I am not creating this repository for-profit, or as a component of my company. Discussion about this on the discord server is encouraged for general discussion, however the server promoted is a function of the company and is subject to the policies of the company towards the server. This repository represents the views and opinion of Andy Herbert, not of Quantonium LLC.
+
+lease change this section if you wish to share your own fork of this repo, unless you really want to support my company.
